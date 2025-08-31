@@ -4,3 +4,4 @@ output_tracked_video.mp4
 yolov8n.pt
 .vscode
 __pycache__/
+data
